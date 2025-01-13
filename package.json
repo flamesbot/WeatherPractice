@@ -20,8 +20,8 @@
     "dotenv": "^16.4.7",
     "express": "^4.21.2",
     "fetch": "^1.1.0",
+    "fetch-node": "^0.0.1",
     "nedb": "^1.8.0",
-    "node-fetch": "^3.3.2",
     "nodemon": "^3.1.9",
     "openmeteo": "^1.1.4"
   }
